@@ -4,8 +4,8 @@
 >- 🌱 I’m currently learning 
 >     | Pank  | Languages |
 >     | ------------- | ------------- |
->     | 1 | htnl  |
->     | 2 | css5  |
+>     | 1 | html5  |
+>     | 2 | css  |
 >     | 3 | javascript  |
 
 >- Networks  
